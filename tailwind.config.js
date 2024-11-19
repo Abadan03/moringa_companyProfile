@@ -9,6 +9,9 @@ module.exports = {
 		],
   theme: {
   	extend: {
+			backgroundImage: {
+        'about': "url('/public/about.png')",
+      },
   		colors: {
   			background: 'hsl(var(--background))',
   			foreground: 'hsl(var(--foreground))',
