@@ -19,7 +19,7 @@ export default function Showcase () {
             {/* Image 1 */}
             <div className="flex items-center justify-center">
               <Image
-                src="/wraptea.jpg"
+                src="/wrapleaf5.jpg"
                 width={648}
                 height={1152}
                 className="rounded object-cover w-full max-h-[300px] sm:max-h-[400px] md:max-h-[600px]"
@@ -29,7 +29,7 @@ export default function Showcase () {
             {/* Image 2 */}
             <div className="flex items-center justify-center">
               <Image
-                src="/tea.jpg"
+                src="/product6.jpg"
                 width={1031}
                 height={783}
                 className="rounded object-cover w-full max-h-[300px] sm:max-h-[400px] md:max-h-[600px]"
@@ -39,7 +39,37 @@ export default function Showcase () {
             {/* Image 3 */}
             <div className="flex items-center justify-center">
               <Image
-                src="/wrapteaextra.jpg"
+                src="/leaf4side.jpg"
+                width={648}
+                height={1152}
+                className="rounded object-cover w-full max-h-[300px] sm:max-h-[400px] md:max-h-[600px]"
+                alt="Wrapped Tea Extra"
+              />
+            </div>
+            {/* Image 4 */}
+            <div className="flex items-center justify-center">
+              <Image
+                src="/leaf2.jpg"
+                width={648}
+                height={1152}
+                className="rounded object-cover w-full max-h-[300px] sm:max-h-[400px] md:max-h-[600px]"
+                alt="Wrapped Tea Extra"
+              />
+            </div>
+            {/* Image 5 */}
+            <div className="flex items-center justify-center">
+              <Image
+                src="/leaf3top.jpg"
+                width={648}
+                height={1152}
+                className="rounded object-cover w-full max-h-[300px] sm:max-h-[400px] md:max-h-[600px]"
+                alt="Wrapped Tea Extra"
+              />
+            </div>
+            {/* Image 6 */}
+            <div className="flex items-center justify-center">
+              <Image
+                src="/leaf.jpg"
                 width={648}
                 height={1152}
                 className="rounded object-cover w-full max-h-[300px] sm:max-h-[400px] md:max-h-[600px]"
